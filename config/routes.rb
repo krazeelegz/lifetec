@@ -19,7 +19,11 @@ Rails.application.routes.draw do
 
   get 'contact', to: 'application#contact'
 
-  get 'plarrs', to: 'application#plarrs'
+  get 'plarr', to: 'application#plarr'
+
+  get 'smart', to: 'application#smart'
+
+  get 'sustainable_homes', to: 'application#sustainable_homes'
 
 
 end

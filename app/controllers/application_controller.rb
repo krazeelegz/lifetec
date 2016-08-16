@@ -19,8 +19,15 @@ class ApplicationController < ActionController::Base
   def contact
   end
 
-  def plarrs
-    @disable_nav = true
+  def smart
   end
+
+  def sustainable_homes
+  end
+
+  def plarr
+  end
+
+
 
 end
