@@ -4,14 +4,14 @@ class ApplicationController < ActionController::Base
   def home
   end
 
-  def projects
-  end
+  # def projects
+  # end
 
   def team
   end
 
-  def philosophy
-  end
+  # def philosophy
+  # end
 
   def partners
   end

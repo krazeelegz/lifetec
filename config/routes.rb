@@ -7,13 +7,13 @@ Rails.application.routes.draw do
   
   get 'home', to: 'application#home' 
 
-  get 'projects', to: 'application#projects'
+  # get 'projects', to: 'application#projects'
 
   get 'team', to: 'application#team'
 
-  get 'story', to: 'application#story'
+  # get 'story', to: 'application#story'
 
-  get 'services', to: 'application#services'
+  # get 'services', to: 'application#services'
 
   get 'partners', to: 'application#partners'
 
