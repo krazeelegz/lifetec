@@ -23,6 +23,7 @@ class ApplicationController < ActionController::Base
   end
 
   def sustainable_homes
+    @disable_nav = true
   end
 
   def plarr
