@@ -636,6 +636,7 @@ figure.post-media + * {
     color: #00ACED;
     color: #2FBBED;
 }
+
 .member .text-overlay .info .social li a i:after {
 	background: #FFF;
 }
@@ -1988,6 +1989,14 @@ p .btn {
 .social a .icon-s-dribbble:after {
     background: #EA4C89;
     background: #EB6397;
+}
+.social a .icon-s-youtube:after {
+    background: #ee1c1b;
+    background: #ee1c1b;
+}
+.social a .icon-s-vimeo:after {
+    background: #1ab7ea;
+    background: #1ab7ea;
 }
 
 
