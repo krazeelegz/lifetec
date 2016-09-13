@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   # get 'projects', to: 'application#projects'
 
-  get 'team', to: 'application#team'
+  get 'people', to: 'application#people'
 
   # get 'story', to: 'application#story'
 
@@ -21,7 +21,7 @@ Rails.application.routes.draw do
 
   get 'plarr', to: 'application#plarr'
 
-  get 'smart', to: 'application#smart'
+  get 'smart_homes', to: 'application#smart_homes'
 
   get 'sustainable_homes', to: 'application#sustainable_homes'
 

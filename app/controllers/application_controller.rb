@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
   # def projects
   # end
 
-  def team
+  def people
   end
 
   # def philosophy
@@ -19,7 +19,7 @@ class ApplicationController < ActionController::Base
   def contact
   end
 
-  def smart
+  def smart_homes
   end
 
   def sustainable_homes
