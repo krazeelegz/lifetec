@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   # get 'projects', to: 'application#projects'
 
+  get 'plarr_homes', to: 'application#plarr_homes'
+
   get 'people', to: 'application#people'
 
   # get 'story', to: 'application#story'

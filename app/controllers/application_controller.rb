@@ -7,6 +7,9 @@ class ApplicationController < ActionController::Base
   # def projects
   # end
 
+  def plarr_homes
+  end
+
   def people
   end
 
