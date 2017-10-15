@@ -20,6 +20,18 @@ Demo URI: 		http://demo.fuviz.com/reen
 :focus {
     outline: 0 !important;
 }
+
+p {
+    font-weight: 100; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
+}
+
+h1 h2 h3 h4 h5 {
+   font-weight: 100; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
+}
+
+b {
+    font-weight: 500; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
+}
 figure {
     margin: 0;
     padding: 0;
@@ -6113,4 +6125,8 @@ a.changecolor {
 	300 {
 		max-height: 20px;
 	}
+}
+
+p {
+    font-weight: 1; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
 }
