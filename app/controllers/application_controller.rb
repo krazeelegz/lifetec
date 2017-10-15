@@ -7,8 +7,8 @@ class ApplicationController < ActionController::Base
   # def projects
   # end
 
-  def plarr_homes
-  end
+  # def plarr_homes
+  # end
 
   def people
   end
@@ -22,15 +22,15 @@ class ApplicationController < ActionController::Base
   def contact
   end
 
-  def smart_homes
-  end
+  # def smart_homes
+  # end
 
-  def sustainable_homes
-    @disable_nav = true
-  end
+  # def sustainable_homes
+  #   @disable_nav = true
+  # end
 
-  def plarr
-  end
+  # def plarr
+  # end
 
 
 
