@@ -13,6 +13,9 @@ class ApplicationController < ActionController::Base
   def people
   end
 
+  def steel
+  end
+
   # def philosophy
   # end
 

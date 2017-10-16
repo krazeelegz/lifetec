@@ -7,7 +7,7 @@ Rails.application.routes.draw do
   
   get 'home', to: 'application#home' 
 
-  # get 'projects', to: 'application#projects'
+  get 'steel', to: 'application#steel'
 
   get 'plarr_homes', to: 'application#plarr_homes'
 
