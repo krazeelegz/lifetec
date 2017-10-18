@@ -1417,7 +1417,7 @@ aside .thumb figure {
 	margin-top: -1px;
 }
 .nav > li.active > a {
-    color: #00d44f;
+    color: #ffffffff;
 }
 .nav > li > a:focus {
     background-color: transparent;
@@ -6074,7 +6074,7 @@ input:focus:-ms-input-placeholder {
 }
 
 span {
-  color: #00d44f;
+  color: #ffffffff;
 }
 
 
