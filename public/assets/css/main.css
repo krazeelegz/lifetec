@@ -22,11 +22,11 @@ Demo URI: 		http://demo.fuviz.com/reen
 }
 
 p {
-    font-weight: 100; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
+    font-weight: 500; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
 }
 
 h1 h2 h3 h4 h5 {
-   font-weight: 100; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
+   font-weight: 500; /* 100, 200, 300, ... 900, normal, bold, bolder, lighter */
 }
 
 b {
