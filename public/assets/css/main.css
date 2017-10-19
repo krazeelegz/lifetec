@@ -648,6 +648,14 @@ figure.post-media + * {
     color: #00ACED;
     color: #2FBBED;
 }
+.member .text-overlay .info .social li a:hover .icon-s-facebook {
+    color: #3B5998;
+    color: #4668B3;
+}
+.member .text-overlay .info .social li a:hover .icon-s-gplus {
+    color: #DD4B39;
+    color: #DE5745;
+}
 
 .member .text-overlay .info .social li a i:after {
 	background: #FFF;
