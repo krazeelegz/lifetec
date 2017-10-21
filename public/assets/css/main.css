@@ -4485,6 +4485,8 @@ input:focus:-ms-input-placeholder {
 .modal .container {
 	width: 100%;
 	max-width: 1170px;
+  max-height: 1000px;
+  padding-bottom: 50px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
@@ -4510,7 +4512,7 @@ input:focus:-ms-input-placeholder {
 	max-height: 100%;
 }
 .modal-md {
-	max-width: 1170px;
+	max-width: 1045px;
 	max-height: 800px;
 }
 .modal-sm {

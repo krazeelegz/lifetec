@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   get 'steel', to: 'application#steel'
 
+  get 'gallery', to: 'application#gallery'
+
   # get 'plarr_homes', to: 'application#plarr_homes'
 
   get 'people', to: 'application#people'
