@@ -17,6 +17,7 @@ Demo URI: 		http://demo.fuviz.com/reen
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 :focus {
     outline: 0 !important;
 }
