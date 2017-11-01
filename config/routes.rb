@@ -11,7 +11,7 @@ Rails.application.routes.draw do
 
   get 'gallery', to: 'application#gallery'
 
-  # get 'plarr_homes', to: 'application#plarr_homes'
+  get 'plarr_homes', to: 'application#plarr_homes'
 
   get 'people', to: 'application#people'
 
@@ -22,6 +22,8 @@ Rails.application.routes.draw do
   # get 'services', to: 'application#services'
 
   # get 'partners', to: 'application#partners'
+
+  get 'services', to: 'application#services'
 
   get 'contact', to: 'application#contact'
 

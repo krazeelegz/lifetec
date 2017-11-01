@@ -10,6 +10,9 @@ class ApplicationController < ActionController::Base
   # def plarr_homes
   # end
 
+  def services
+  end
+
   def people
   end
 
@@ -32,8 +35,8 @@ class ApplicationController < ActionController::Base
   #   @disable_nav = true
   # end
 
-  # def plarr
-  # end
+  def plarr
+  end
 
 
 
