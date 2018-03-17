@@ -1109,6 +1109,10 @@ footer p {
 .border {
 	border: 1px solid #CED7E0;
 }
+
+.border-big {
+  border: 10px solid #CED7E0;
+}
 .border-top-lg,
 .border-top-md,
 .border-top-sm,
