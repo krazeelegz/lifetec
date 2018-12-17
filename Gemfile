@@ -34,6 +34,8 @@ gem 'sitemap_generator', '~> 5.1'
 
 gem 'haml', '~> 4.0', '>= 4.0.7'
 
+gem 'rails_12factor'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
