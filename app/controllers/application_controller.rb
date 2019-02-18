@@ -9,8 +9,8 @@ class ApplicationController < ActionController::Base
   def home
   end
 
-  # def projects
-  # end
+  def projects
+  end
 
   # def plarr_homes
   # end

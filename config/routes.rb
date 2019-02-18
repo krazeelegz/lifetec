@@ -17,6 +17,10 @@ Rails.application.routes.draw do
 
   get 'faq', to: 'application#faq'
 
+  get 'projects', to: 'application#projects'
+
+  get 'portfolio_post', to: 'application#portfolio_post'
+
   # get 'story', to: 'application#story'
 
   # get 'services', to: 'application#services'
