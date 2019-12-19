@@ -18,8 +18,8 @@ class ApplicationController < ActionController::Base
   def services
   end
 
-  def people
-  end
+  # def people
+  # end
 
   def steel
   end
@@ -27,8 +27,8 @@ class ApplicationController < ActionController::Base
   # def philosophy
   # end
 
-  def partners
-  end
+  # def partners
+  # end
 
   def contact
   end
@@ -40,8 +40,8 @@ class ApplicationController < ActionController::Base
   #   @disable_nav = true
   # end
 
-  def plarr
-  end
+  # def plarr
+  # end
 
 
 
