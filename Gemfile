@@ -37,7 +37,7 @@ gem 'rails_12factor'
 
 group :production do
   # Use Puma as the app server
-  gem 'puma', '~> 3.0'
+  gem 'puma', '~> 3.12'
 end
 
 group :development, :test do
